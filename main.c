@@ -12,7 +12,7 @@
 #define BLUE    "\033[34m"
 #define MAGENTA "\033[35m"
 
-//Structuress
+//Structures
 typedef struct {
     double principal;
     double annual_rate;

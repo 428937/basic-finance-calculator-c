@@ -13,7 +13,7 @@ A command-line financial calculator written in C. This code provides common fina
 
 It also has simple CLI menu interface, input validation, ANSI terminal colors for better readability
 
-## Requirementss
+## Requirements
 
 C compiler (GCC / Clang),
 Terminal supporting ANSI colors,

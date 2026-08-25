@@ -2,7 +2,7 @@
 #include <math.h>
 #include <stdlib.h>
 
-////Colors
+//Colors
 #define RESET   "\033[0m"
 #define BOLD    "\033[1m"
 #define CYAN    "\033[36m"
